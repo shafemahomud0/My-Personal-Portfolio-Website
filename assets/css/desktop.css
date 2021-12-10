@@ -1,0 +1,353 @@
+/* For desktop*/
+
+.col-1 {
+    width: 8.33%;
+}
+
+.col-2 {
+    width: 16.66%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.33%;
+}
+
+.col-5 {
+    width: 41.66%;
+}
+
+.col-6 {
+    width: 50%;
+}
+
+.col-7 {
+    width: 58.33%;
+}
+
+.col-8 {
+    width: 66.66%;
+}
+
+.col-9 {
+    width: 75%;
+}
+
+.col-10 {
+    width: 83.33%;
+}
+
+.col-11 {
+    width: 91.66%;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+
+/* navbar design  */
+
+.nav-logo {
+    text-align: left;
+}
+
+.navbar-logo img {
+    width: 90px;
+}
+
+.navbar-logo img:hover {
+    width: 100px;
+}
+
+.nav-heading h1 {
+    text-align: right;
+}
+
+.navbar-menu {
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.navbar-menu a {
+    padding: 5px 10px;
+    margin: 20px;
+    background-color: transparent;
+}
+
+
+/* navbar design */
+
+
+/* profile design  */
+
+.color-div-top {
+    width: 65%;
+    height: 250px;
+    background-color: #FAEBD7;
+    position: absolute;
+    margin-top: -270px;
+    margin-left: -10px;
+}
+
+.color-div-bottom {
+    width: 95%;
+    height: 250px;
+    background-color: #FAEBD7;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 450px;
+    padding-right: 1400px;
+}
+
+.color-div-1 {
+    width: 65%;
+    height: 30px;
+    background-color: #66b3ff;
+    position: absolute;
+    margin-top: -240px;
+    margin-left: -10px;
+}
+
+.color-div-2 {
+    width: 65%;
+    height: 30px;
+    position: absolute;
+    margin-top: -210px;
+    margin-left: -10px;
+}
+
+.color-div-3 {
+    width: 65%;
+    height: 30px;
+    background-color: #99ccff;
+    position: absolute;
+    margin-top: -180px;
+    margin-left: -10px;
+}
+
+.color-div-4 {
+    width: 65%;
+    height: 30px;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -10px;
+}
+
+.color-div-5 {
+    width: 65%;
+    height: 30px;
+    position: absolute;
+    background-color: #b3d9ff;
+    margin-top: -120px;
+    margin-left: -10px;
+}
+
+.color-div-6 {
+    width: 65%;
+    height: 30px;
+    position: absolute;
+    margin-top: -90px;
+    margin-left: -10px;
+}
+
+.color-div-7 {
+    width: 65%;
+    height: 40px;
+    position: absolute;
+    background-color: #e6f2ff;
+    margin-top: -60px;
+    margin-left: -10px;
+}
+
+.color-div-8 {
+    width: 100%;
+    height: 30px;
+    background-color: #66b3ff;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 0px;
+    padding-right: 1400px;
+}
+
+.color-div-9 {
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    margin-top: 160px;
+    margin-left: 0px;
+    padding-right: 1400px;
+}
+
+.color-div-10 {
+    width: 100%;
+    height: 30px;
+    background-color: #99ccff;
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 0px;
+    padding-right: 1400px;
+}
+
+.color-div-11 {
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 0px;
+    padding-right: 1400px;
+}
+
+.color-div-12 {
+    width: 100%;
+    height: 30px;
+    background-color: #b3d9ff;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 0px;
+    padding-right: 1400px;
+}
+
+.color-div-13 {
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 0px;
+    padding-right: 1400px;
+}
+
+.color-div-14 {
+    width: 100%;
+    height: 40px;
+    background-color: #e6f2ff;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-right: 1400px;
+}
+
+.profile-disc p {
+    color: gray;
+    margin: 0px auto;
+    text-align: center;
+    margin-bottom: 10px;
+    width: 50%;
+}
+
+.top-icon {
+    right: 100px;
+    width: 200px;
+    transition: width 2s, transform 2s;
+    float: left;
+}
+
+.top-icon:hover {
+    width: 250px;
+}
+
+.bottom-icon {
+    float: left;
+    bottom: 20px;
+    left: 100px;
+    width: 200px;
+    transition: width 2s, transform 2s;
+}
+
+.bottom-icon:hover {
+    width: 250px;
+}
+
+
+/* profile design */
+
+
+/* about-me start  */
+
+.aboutme-image {
+    margin-top: 100px;
+}
+
+.aboutme-image {
+    width: 300px;
+}
+
+.aboutme-desc p {
+    text-align: left;
+    padding-left: 25px;
+}
+
+.cv-button {
+    width: 160px;
+    height: 60px;
+}
+
+.cv-button:hover {
+    width: 170px;
+    height: 70px;
+    background-color: #FAEBD7;
+    box-shadow: 0 5px 15px 0px #0097FA;
+    transition: all 0.9s ease;
+}
+
+
+/* about-me end */
+
+
+/* exprience start  */
+
+.card {
+    height: 930px;
+}
+
+
+/* exprience end  */
+
+
+/* contact start  */
+
+.achievement {
+    padding-right: 50px;
+}
+
+.achievement {
+    margin-left: 15%;
+    text-align: center;
+}
+
+.contact button {
+    width: 150px;
+}
+
+.contact-links {
+    position: relative;
+}
+
+.media-buttons {
+    position: absolute;
+    margin-top: 200px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+/* contact end */
+
+
+/* footer start  */
+
+.footer-menu {
+    margin-top: 12px;
+}
+
+.footer-menu a {
+    display: inline;
+    margin: 10px;
+}
+
+
+/* footer end  */
